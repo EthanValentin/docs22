@@ -3,4 +3,4 @@
 > An awesome project.
 
 
-[>>操作指南](docs/guide.md)
+[>>操作指南](guide.md)
